@@ -23,14 +23,14 @@ This project is a full-stack microservices application featuring:
 ---
 
 ## 🗂️ Project Structure
-
+```bash
 Microservices-app/
 ├── backend/ # Backend service
 ├── frontend/ # Frontend React app
 ├── k8s/ # Kubernetes YAML files
 ├── docker-compose.yml # (For local development only)
 └── README.md
-
+```
 
 ---
 
